@@ -1,0 +1,39 @@
+
+
+
+  
+  .contact-section {
+    margin-top: 20px;
+  }
+  
+  .contact-item {
+    margin-bottom: 15px;
+  }
+  
+  .contact-item a {
+    color: #2c98f0;
+    text-decoration: none;
+    transition: color 0.3s ease-in-out;
+  }
+  
+  .contact-item a:hover {
+    color: #2166aa;
+  }
+  
+  .contact-item p {
+    margin: 0;
+    font-size: 18px;
+    line-height: 1.6;
+    color: rgba(0, 0, 0, 0.7);
+  }
+  
+  @media (max-width: 768px) {
+    .headings {
+      font-size: 24px;
+    }
+  
+    .contact-item p {
+      font-size: 16px;
+    }
+  }
+  

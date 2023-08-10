@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.69ee959c.css",
+    "main.js": "/static/js/main.11e88fc0.js",
+    "static/media/Front_photo.JPG": "/static/media/Front_photo.fab80ed450403586c559.JPG",
+    "static/media/ProfilePic.png": "/static/media/ProfilePic.0fec8c50274d28a88a69.png",
+    "static/media/GFG.jpg": "/static/media/GFG.c9bbeef531914ef376c0.jpg",
+    "static/media/codechef.jpg": "/static/media/codechef.50c67334cc1a3935c2dd.jpg",
+    "static/media/Coding-Ninjas.jpg": "/static/media/Coding-Ninjas.5fe9ded658fdda19d08c.jpg",
+    "static/media/leetcode.avif": "/static/media/leetcode.c82e87184a5461433d17.avif",
+    "index.html": "/index.html",
+    "main.69ee959c.css.map": "/static/css/main.69ee959c.css.map",
+    "main.11e88fc0.js.map": "/static/js/main.11e88fc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69ee959c.css",
+    "static/js/main.11e88fc0.js"
+  ]
+}

@@ -1,0 +1,22 @@
+.achievements {
+    padding-top: 30px;
+    position:sticky;
+    top: 80vh;
+    z-index: 1;
+  }
+  
+  .accordion-body {
+    padding-top: 20px; 
+  }
+  .accordion{
+    width: 62vw;
+    margin-left: 1vw;
+    border: 2px solid whitesmoke;
+  }
+
+  @media (max-width:768px){
+    .accordion{
+      width: 80vw;
+      margin:auto;
+    }
+  }

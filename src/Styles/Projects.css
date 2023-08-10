@@ -1,0 +1,17 @@
+.project-link{
+    text-decoration: underline;
+    font-size: 20px;
+    margin-bottom: 1rem;
+    font-family: "Playfair Display", Georgia, serif;    
+    text-transform: uppercase;    
+    position: relative;
+    color: #2166aa;
+}
+
+.project{
+    padding: 10px;
+    margin: 20px ;
+    border: 1px groove #2166aa;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+
+}

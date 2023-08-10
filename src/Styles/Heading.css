@@ -1,0 +1,46 @@
+.heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #333;
+  padding: 5px 5%;
+  color: #fff;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+  height: 10vh;
+}
+
+.icon-part{
+  width: 14vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
+}
+.heading-text {
+  margin: 0; 
+}
+
+.icons {
+  height: 1.5em;
+  width: 1.5em; 
+  color: #fff;
+  
+}
+@media(max-width:480px){
+  .icon-part{
+    width: 30vw;
+  }
+}
+
+@media (max-width:768px){
+  h1{
+    font-size: 20px;
+  }
+  .icon-part{
+    width:30vw;
+  }
+}

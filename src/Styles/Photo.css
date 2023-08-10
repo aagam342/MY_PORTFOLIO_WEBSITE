@@ -1,0 +1,44 @@
+
+.photo img{
+    object-fit: contain;
+    height: 54vw;
+    width: 100%;
+  }
+  
+  .photo{
+    position: relative;
+    margin-top: 0;
+    padding-top: 0;
+  }
+  .photo-heading {
+    color: #fff;
+    position: absolute;
+    top: 50%;
+    left: 27%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    width: 100%;
+  }
+  
+  .animated-heading {
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+  }
+  
+  .animated-heading.active {
+    opacity: 1;
+  }
+
+  .resume-button{
+    
+    border: 1px solid gray;
+    background: transparent ;
+  }
+  @media (max-width:768px){
+    .photo-heading h3, .resume-button{
+      font-size: small;
+    }
+    .photo img{
+      object-fit: cover;
+    }
+  }

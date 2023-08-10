@@ -1,0 +1,29 @@
+.certificate-section img{
+    object-fit: contain;
+    height: 60vh;
+    width: 100%;
+    
+}
+
+.certificate-section{
+    margin-top: 0;
+}
+
+.carousel-control-prev-icon{
+    background-color: #000b0e;
+}
+.carousel-control-next-icon{
+    background-color: #000b0e;
+}
+
+.carousel-item-title{
+    color: #000b0e;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 1px;
+    margin-top: 10px;
+}
+
+
+
+
