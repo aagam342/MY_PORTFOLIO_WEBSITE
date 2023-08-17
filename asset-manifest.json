@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/MY_PORTFOLIO_WEBSITE/static/css/main.712b39ff.css",
+    "main.css": "/MY_PORTFOLIO_WEBSITE/static/css/main.e46947fb.css",
     "main.js": "/MY_PORTFOLIO_WEBSITE/static/js/main.480c58c6.js",
     "static/media/Front_photo.JPG": "/MY_PORTFOLIO_WEBSITE/static/media/Front_photo.fab80ed450403586c559.JPG",
     "static/media/ProfilePic.png": "/MY_PORTFOLIO_WEBSITE/static/media/ProfilePic.0fec8c50274d28a88a69.png",
@@ -9,11 +9,11 @@
     "static/media/Coding-Ninjas.jpg": "/MY_PORTFOLIO_WEBSITE/static/media/Coding-Ninjas.5fe9ded658fdda19d08c.jpg",
     "static/media/leetcode.avif": "/MY_PORTFOLIO_WEBSITE/static/media/leetcode.c82e87184a5461433d17.avif",
     "index.html": "/MY_PORTFOLIO_WEBSITE/index.html",
-    "main.712b39ff.css.map": "/MY_PORTFOLIO_WEBSITE/static/css/main.712b39ff.css.map",
+    "main.e46947fb.css.map": "/MY_PORTFOLIO_WEBSITE/static/css/main.e46947fb.css.map",
     "main.480c58c6.js.map": "/MY_PORTFOLIO_WEBSITE/static/js/main.480c58c6.js.map"
   },
   "entrypoints": [
-    "static/css/main.712b39ff.css",
+    "static/css/main.e46947fb.css",
     "static/js/main.480c58c6.js"
   ]
 }
